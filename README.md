@@ -7,7 +7,7 @@ resit includes assignments missed
 ###1.Is there a correlation between the number of artworks an artist created and their age at the time of their death?
 ###2. Does an artist live longer make him/her more creative?##The assignment 5.1
 
-#assignment 5.1
+#assignment 5.1.
 ##I used the open dataset from https://github.com/the-pudding/data.git. I explored and visualized the dataset according to my research question.
 ##My research questions are: ###1.Which countries have produced the most Nobel Prize winners and in which categories?
 ###2.Is there any difference the countries winners were born and where they live?

@@ -1,5 +1,5 @@
 # Resits-
-resit includes assignments missed
+resit contains assignments missed
 
 ## The assignment 4:
  I merged two file (artists and artworks) into one, deleted unwanted columns, explored and visualized the dataset 
